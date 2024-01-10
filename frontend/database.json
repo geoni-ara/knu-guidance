@@ -1,0 +1,119 @@
+{
+  "board": [
+    {
+      "id": 1,
+      "title": "1111",
+      "contents": "11111",
+      "date": "12:49",
+      "show": 2
+    },
+    {
+      "id": 2,
+      "title": "222",
+      "contents": "22222",
+      "date": "12:49",
+      "show": 2
+    },
+    {
+      "id": 3,
+      "title": "3333",
+      "contents": "4444",
+      "date": "12:49",
+      "show": 1
+    }
+  ],
+  "share": {
+    "0": [
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "basic",
+        "credit": 3,
+        "title": "전자공학개론및과학기술문서작성",
+        "semester": 1
+      },
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "basic",
+        "credit": 3,
+        "title": "소프트웨어개론",
+        "semester": 1
+      },
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "basic",
+        "credit": 3,
+        "title": "가상현실콘텐츠기초",
+        "semester": 1
+      }
+    ],
+    "1": [
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "basic",
+        "credit": 3,
+        "title": "파이썬응용",
+        "semester": 2
+      },
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "basic",
+        "credit": 3,
+        "title": "프로그래밍언어",
+        "semester": 2
+      }
+    ],
+    "2": [
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "choice",
+        "credit": 3,
+        "title": "디지털회로",
+        "semester": 3
+      },
+      {
+        "id": "y2_u4_g1_m1",
+        "type": "choice",
+        "credit": 3,
+        "title": "이산수학",
+        "semester": 3
+      }
+    ],
+    "3": [],
+    "4": [],
+    "5": [],
+    "6": [],
+    "7": []
+  },
+  "user": [
+    {
+      "id": 0,
+      "email": "lgeeckh@gmail.com",
+      "password": "0401"
+    },
+    {
+      "email": "qwe",
+      "password": "qwe",
+      "id": 1
+    },
+    {
+      "email": "123",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "4654",
+      "password": "131",
+      "id": 3
+    },
+    {
+      "email": "123",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "qwe",
+      "password": "qwe",
+      "id": 5
+    }
+  ]
+}
